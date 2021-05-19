@@ -1,8 +1,10 @@
 """Zadanie 1.1 - 3"""
 
-# Napisz program, który dla podanych liczb: wzrostu w cm i masy ciała w kg obliczą i wypisze współczynnik BMI,
-# oraz podsumowanie informujące o stanie/zaleceniach. (Informacje o BMI: wzór,
-# interpretację wyników, proszę znaleźć samodzielnie).
+# Potem napisz program, który prosi użytkownika (przez `input()`), żeby podał,
+# ile kosztuje kilo ziemniaków, ile kilo ziemniaków chce kupić, ile kosztuje kilo bananów i ile kilo bananów chce kupić.
+# Niech program policzy i wyświetli, ile trzeba będzie zapłacić za te ziemniaki i banany razem.
+# I niech program sprawdzi i powie,
+# za co trzeba będzie zapłacić więcej - za banany czy za ziemniaki.
 
 cena_z = float(input("Podaj cenę kilograma ziemniaków: ").split()[0])
 ile_z = float(input("Ile kilogramów ziemniaków chcesz kupić?: ").split()[0])
