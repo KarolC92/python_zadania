@@ -1,1 +1,1 @@
-# python_zadania
+# python_zadania_domowe_1
